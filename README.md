@@ -27,9 +27,9 @@ Because the two are genuinely different skills read by genuinely different peopl
 
 | Area | Status |
 |---|---|
-| Networking fundamentals | Not started |
+| Networking fundamentals | 1 entry logged — [subnetting a /24 into /27s](01-networking/2026-09-04-subnetting-a-slash-24.md) |
 | Web security (OWASP Top 10) | Not started |
-| Cryptography | Not started |
+| Cryptography | 1 entry logged — [why ECB mode leaks structure](03-cryptography/2026-09-04-ecb-mode-structure-leak.md) |
 | CTF write-ups | Not started |
 
 *Started empty on purpose — see the templates in each folder. This table gets checked off as real work lands, not backfilled.*
